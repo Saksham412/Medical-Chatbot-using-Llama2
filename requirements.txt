@@ -1,5 +1,5 @@
 ctransformers==0.2.5 # To load the quantized model as we running the model on CPU. For langchain
-sentence-transformers===2.2.2
-pinecone-client
-langchain==0.0.225
-flask
+sentence-transformers===2.2.2 # For embeddings
+pinecone-client # For vector db connection
+langchain==0.0.225 # Framework
+flask # Frontend

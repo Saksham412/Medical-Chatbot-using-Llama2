@@ -5,3 +5,10 @@
 conda create -n medicalbot python==3.8 -y
 ```
 
+```bash
+conda activate
+```
+
+```bash
+pip3 install -r requirements.txt
+```
