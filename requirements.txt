@@ -3,3 +3,6 @@ sentence-transformers===2.2.2 # For embeddings
 pinecone-client # For vector db connection
 langchain==0.0.225 # Framework
 flask # Frontend
+pypdf
+python-dotenv
+-e .
